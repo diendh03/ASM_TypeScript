@@ -11,7 +11,7 @@ const Avatar = (props) => {
       />
       <p>Project manager</p>
       <button onClick={showInfo} className="bg-pink-500">
-        show info
+        show info2
       </button>
     </div>
   );
